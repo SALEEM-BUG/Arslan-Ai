@@ -63,7 +63,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > ♥️ Pairing Code Authentication
 
-[![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red)](https://arslan-sessions.onrender.com/)
+[![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red)](https://arslan-md-pair-site.onrender.com/)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
